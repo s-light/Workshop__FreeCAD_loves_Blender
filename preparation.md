@@ -1,8 +1,8 @@
 # Workshop FreeCAD loves Blender
 ## Vorbereitungen
 Bitte schon folgende Software vor start des Workshops Installieren und einmal testen das sie Startet:
-- die [aktuelle Blender-Version 2.93.1](https://www.blender.org/download/)
-- den [aktuelle Stable Release FreeCAD 0.19.2](https://www.freecadweb.org/downloads.php)
+- die [aktuelle Blender-Version 3.2.1](https://www.blender.org/download/)
+- den [aktuelle Stable Release FreeCAD 0.20](https://www.freecadweb.org/downloads.php)
 
 gerne auch schon mal mit den *gettet Startet* guides rum experimentieren -
 - [getting startet FreeCAD](https://wiki.freecadweb.org/Getting_started)
